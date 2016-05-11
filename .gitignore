@@ -13,7 +13,8 @@ hs_err_pid*
 /bin/
 
 # Eclipse Project Config
-.classpath
-.project
-.settings/
-build
+*/.classpath
+*/.project
+*/.settings/
+*/build
+*/bin
